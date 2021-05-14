@@ -9,3 +9,14 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+header .id {
+    align: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 30px;
+    background: #cccccc
+}
+header .available {
+    background: #ff545f;
